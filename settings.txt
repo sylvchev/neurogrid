@@ -1,0 +1,7 @@
+remote_dir=/home/alma/
+program_dir=/home/alma/prog/
+program_files=antnest, param_ant.txt, param_nest.txt
+output_file=nest_stat.txt
+pkey_dir=/home/alma/.ssh/id_rsa
+port=22
+max_trys=6
